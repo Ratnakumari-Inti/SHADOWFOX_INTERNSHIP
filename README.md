@@ -1,3 +1,5 @@
+## Project Structure
+
 * SHADOWFOX\_\_LEVEL2.ipynb – Main Jupyter Notebook with analysis
 * delhiaqi.csv – Raw AQI dataset (Delhi Jan 2023)
 * shadowfox\_LEVEL1.pdf – Level 1 documentation (Matplotlib vs Seaborn)
